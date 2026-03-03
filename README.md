@@ -1,6 +1,3 @@
-Here’s a clean and professional **README.md** file you can directly paste into your GitHub repo 👇
-
----
 
 # 💧 IoT Water Level Monitoring System
 
