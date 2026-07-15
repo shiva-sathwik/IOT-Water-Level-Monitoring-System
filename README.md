@@ -150,8 +150,9 @@ Useful for debugging and calibration.
 
 ## 👨‍💻 Author
 
-**P R Rhishabh**
-**Shiva Satvik Reddy**
+**P R Rhishabh**, 
+**Shiva Satvik Reddy**, 
+**Devatade Bhanu Charan**
 
 If you like this project, ⭐ star the repository!
 
